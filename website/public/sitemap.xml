@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:57069/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:57069/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:57529/english/pages/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:57529/english/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:57529/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:57529/authors/</loc>
+  </url><url>
+    <loc>http://localhost:57529/categories/</loc>
+  </url><url>
+    <loc>http://localhost:57529/series/</loc>
+  </url><url>
+    <loc>http://localhost:57529/tags/</loc>
+  </url>
+</urlset>
