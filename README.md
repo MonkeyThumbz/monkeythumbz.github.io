@@ -1,0 +1,1 @@
+# Hugo template: https://github.com/luizdepra/hugo-coder
